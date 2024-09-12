@@ -1,8 +1,11 @@
 # vue-currency-converter
 
 Github Pages: https://jadoson.github.io/vue-currency-converter/
+
 API for currency rates: https://www.exchangerate-api.com/
+
 Vitest for testing
+
 
 ## Recommended IDE Setup
 
