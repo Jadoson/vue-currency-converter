@@ -1,6 +1,8 @@
 # vue-currency-converter
 
-This template should help get you started developing with Vue 3 in Vite.
+Github Pages: https://jadoson.github.io/vue-currency-converter/
+API for currency rates: https://www.exchangerate-api.com/
+Vitest for testing
 
 ## Recommended IDE Setup
 
